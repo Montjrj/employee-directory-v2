@@ -1,5 +1,5 @@
 import request from "supertest";
-import { onTestFailed, describe, expect, it, test } from "vitest";
+import { describe, expect, it, test } from "vitest";
 
 import app from "#app";
 import employees from "#db/employees";
