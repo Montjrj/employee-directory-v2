@@ -11,4 +11,4 @@ const employees = [
   { id: 10, name: "Gwen Grollmann" },
 ];
 
-module.exports = employees;
+export default employees;
